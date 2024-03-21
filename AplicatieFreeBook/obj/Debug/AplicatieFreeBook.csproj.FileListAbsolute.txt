@@ -1,0 +1,15 @@
+C:\Users\Sebi\source\repos\AplicatieFreeBook\bin\Debug\Database1.mdf
+C:\Users\Sebi\source\repos\AplicatieFreeBook\bin\Debug\Database1_log.ldf
+C:\Users\Sebi\source\repos\AplicatieFreeBook\bin\Debug\AplicatieFreeBook.exe.config
+C:\Users\Sebi\source\repos\AplicatieFreeBook\bin\Debug\AplicatieFreeBook.exe
+C:\Users\Sebi\source\repos\AplicatieFreeBook\bin\Debug\AplicatieFreeBook.pdb
+C:\Users\Sebi\source\repos\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.csproj.AssemblyReference.cache
+C:\Users\Sebi\source\repos\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.Properties.Resources.resources
+C:\Users\Sebi\source\repos\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.csproj.GenerateResource.cache
+C:\Users\Sebi\source\repos\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.csproj.CoreCompileInputs.cache
+C:\Users\Sebi\source\repos\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.exe
+C:\Users\Sebi\source\repos\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.pdb
+C:\Users\Sebi\source\repos\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.FreeBookHome.resources
+C:\Users\Sebi\source\repos\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.Inregistrare.resources
+C:\Users\Sebi\source\repos\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.LogareFreeBook.resources
+C:\Users\Sebi\source\repos\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.MeniuFreeBook.resources
